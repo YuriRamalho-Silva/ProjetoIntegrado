@@ -1,4 +1,4 @@
-package br.com.projetointegrado;
+package br.com.projetointegrado.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,6 +9,8 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.orhanobut.hawk.Hawk;
+
+import br.com.projetointegrado.R;
 
 public class LoginActivity extends AppCompatActivity {
 
